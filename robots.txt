@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /game/index.html
+Disallow:
 
 Sitemap: https://ff-games.github.io/sitemap.xml
